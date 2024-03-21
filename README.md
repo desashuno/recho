@@ -1,2 +1,3 @@
-#RECHO
-##small 'echo' but writed in rust
+:::RECHO:::
+
+ - small 'echo' but writed in rust. -
